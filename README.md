@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-Em%20Estudo-38BDF8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Foco-Tecnologia-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-MiguelHenriqueSGalvao-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-GalvaoLabs-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mentalidade-Consist%C3%AAncia-16A34A?style=for-the-badge"/>
 </div>
 
@@ -103,11 +103,11 @@ Atuação prática no ciclo de desenvolvimento em Python: identificação de req
 ## Redes Sociais
 
 <div align="center">
-  <a href="https://www.instagram.com/i_am_entrouder?igsh=OWlzYWJkcngxdXQy" target="_blank">
+  <a href="https://www.instagram.com/i_am_entrouder?igsh=OWlzYWJkcngxdXQy](https://www.instagram.com/galvaolabs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-galvaolabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/GalvaoLabs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MiguelHenriqueSGalvao-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-GalvaoLabs-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
