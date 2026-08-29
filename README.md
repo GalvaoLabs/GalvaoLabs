@@ -1,11 +1,11 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Miguel%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%E2%80%93+N%C3%ADvel+Intermedi%C3%A1rio;Estudos+em+Intelig%C3%AAncia+Artificial;Projetos+Criativos;Aprendizado+Cont%C3%ADnuo+%F0%9F%93%9A"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%E2%80%93+N%C3%ADvel+Intermedi%C3%A1rio;Forma%C3%A7%C3%A3o+em+IA+Generativa+(SENAI);Projetos+Criativos;Aprendizado+Cont%C3%ADnuo+%F0%9F%93%9A"/>
   <br><br>
 
   <img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-Em%20Estudo-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IA%20Generativa-SENAI%20%E2%9C%94-38BDF8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Foco-Tecnologia-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-GalvaoLabs-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -29,13 +29,13 @@ conhecimentos = [
     "Lógica de Programação Aplicada"
 ]
 
-estudando_agora = ["SQL"]
+formacao_complementar = "Programação em IA Generativa – SENAI (40h, concluído)"
 
 objetivos = [
     "Aprofundar Python para aplicações mais complexas",
-    "Desenvolver projetos práticos com IA",
-    "Expandir para outras linguagens e frameworks",
-    "Construir uma base sólida para atuar em tecnologia"
+    "Construir projetos práticos aplicando IA",
+    "Ingressar em uma universidade de excelência (USP ou internacional)",
+    "Empreender e liderar projetos de tecnologia com impacto real"
 ]
 
 interesses = ["Inovação", "Organização", "Projetos Criativos"]
@@ -54,7 +54,7 @@ Atuação prática no ciclo de desenvolvimento em Python: identificação de req
 
 ## Inteligência Artificial
 
-Área que venho estudando e explorando de forma prática, com foco em:
+Concluí o curso **Programação em IA Generativa**, pelo SENAI, com carga horária de aproximadamente 40 horas. A formação abordou de forma introdutória:
 
 - Inteligência Artificial Generativa
 - Treinamento de modelos de IA
@@ -64,14 +64,22 @@ Atuação prática no ciclo de desenvolvimento em Python: identificação de req
 - Visão Computacional
 - Desenvolvimento de modelos personalizados
 
-> Esses são tópicos em construção no meu aprendizado, não áreas de domínio profissional consolidado. O objetivo é evoluir com projetos práticos, aplicando raciocínio lógico, organização e atenção aos detalhes já desenvolvidos em Python.
+> É uma base inicial, não um domínio profissional consolidado. A ideia é usar esse conhecimento como ponto de partida para futuros projetos e estudos mais aprofundados, aplicando o mesmo raciocínio lógico, organização e atenção aos detalhes que desenvolvo em Python.
 
 ---
 
 ## Formação / Conhecimentos
 
 - 🐍 **Programação em Python** — Intermediária
-- 🤖 **Inteligência Artificial** — Intermediário
+- 🤖 **Programação em IA Generativa** — SENAI, 40h (concluído)
+
+---
+
+## Objetivos Acadêmicos e Profissionais
+
+Busco unir tecnologia, ciência, empreendedorismo e impacto real na minha trajetória. No campo acadêmico, pretendo cursar uma universidade de excelência — com foco na USP e, se possível, alguma instituição internacional de destaque — em áreas como Ciência da Computação, Sistemas de Informação, Engenharia Química, Medicina ou Biotecnologia, mantendo a mente aberta para encontrar o melhor encaixe com meu perfil.
+
+No campo profissional, o objetivo vai além de atuar em uma empresa: quero criar, liderar e desenvolver projetos e negócios de tecnologia, podendo chegar à posição de fundador ou CEO, gerando impacto em escala.
 
 ---
 
@@ -103,8 +111,11 @@ Atuação prática no ciclo de desenvolvimento em Python: identificação de req
 ## Redes Sociais
 
 <div align="center">
-  <a href="[https://www.instagram.com/i_am_entrouder?igsh=OWlzYWJkcngxdXQy](https://www.instagram.com/galvaolabs)](https://www.instagram.com/galvaolabs" target="_blank">
+  <a href="https://www.instagram.com/galvaolabs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-galvaolabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-galv%C3%A3o" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Galv%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/GalvaoLabs" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-GalvaoLabs-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -124,7 +135,7 @@ if estudando:
     print("Evoluindo...")
 ```
 
-> "Disciplina e consistência constroem resultados que a motivação sozinha não sustenta."
+> "Só podemos enxergar uma pequena distância à frente, mas podemos ver que há muito a ser feito." — Alan Turing
 
 ---
 
