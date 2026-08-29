@@ -103,7 +103,7 @@ Atuação prática no ciclo de desenvolvimento em Python: identificação de req
 ## Redes Sociais
 
 <div align="center">
-  <a href="https://www.instagram.com/i_am_entrouder?igsh=OWlzYWJkcngxdXQy](https://www.instagram.com/galvaolabs" target="_blank">
+  <a href="[https://www.instagram.com/i_am_entrouder?igsh=OWlzYWJkcngxdXQy](https://www.instagram.com/galvaolabs)](https://www.instagram.com/galvaolabs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-galvaolabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/GalvaoLabs" target="_blank">
