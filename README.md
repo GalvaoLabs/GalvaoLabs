@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Miguel%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%E2%80%93+N%C3%ADvel+Intermedi%C3%A1rio;Forma%C3%A7%C3%A3o+em+IA+Generativa+(SENAI);Projetos+Criativos;Aprendizado+Cont%C3%ADnuo+%F0%9F%93%9A"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%E2%80%93+N%C3%ADvel+Intermedi%C3%A1rio;Forma%C3%A7%C3%A3o+em+IA+Generativa+(SENAI);Projetos+Criativos;Aprendizado+Cont%C3%ADnuo"/>
   <br><br>
 
   <img src="https://img.shields.io/badge/Python-Intermedi%C3%A1rio-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
