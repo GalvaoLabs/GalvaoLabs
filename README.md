@@ -127,7 +127,7 @@ if estudando:
   <a href="https://www.instagram.com/galvaolabs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-galvaolabs-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/miguel-galv%C3%A3o" target="_blank">
+  <a href="https://www.linkedin.com/in/miguelhenriquegalvao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Galv%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/GalvaoLabs" target="_blank">
